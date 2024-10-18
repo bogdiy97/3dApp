@@ -1,15 +1,7 @@
-import hero from './hero.jpg'
-import meta from './meta.png'
-import shopify from './shopify.png'
-import starbucks from './starbucks.png'
-import tesla from './tesla.png'
-import logo from './logo.svg'
+import hero from "./hero.jpg";
+import meta from "./meta.png";
+import dreamproduction from "./dreamproduction.png";
+import continental from "./continental.png";
+import servoy from "./servoy.png";
 
-export {
-    hero,
-    meta,
-    shopify,
-    starbucks,
-    tesla,
-    logo
-}
+export { hero, meta, dreamproduction, continental, servoy };
